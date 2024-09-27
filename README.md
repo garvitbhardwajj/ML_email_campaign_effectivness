@@ -16,13 +16,12 @@ The primary objective is to build a classification model that accurately predict
 
 1. [Project Motivation](#project-motivation)
 2. [Dataset Information](#dataset-information)
-3. [Project Structure](#project-structure)
-4. [Modeling Approach](#modeling-approach)
-5. [Evaluation Metrics](#evaluation-metrics)
-6. [How to Use the Code](#how-to-use-the-code)
-7. [Requirements](#requirements)
-8. [Results](#results)
-9. [Conclusion](#conclusion)
+3. [Modeling Approach](#modeling-approach)
+4. [Evaluation Metrics](#evaluation-metrics)
+5. [How to Use the Code](#how-to-use-the-code)
+6. [Requirements](#requirements)
+7. [Results](#results)
+8. [Conclusion](#conclusion)
 
 ---
 
@@ -47,19 +46,6 @@ The dataset contains **48,291 rows** and **12 columns**. Each row represents a u
 - Handled missing values using visualizations and data dropping methods.
 - Verified for duplicate entries and ensured data integrity.
   
----
-
-## **Project Structure**
-
-The project consists of the following files and directories:
-
-```plaintext
-├── README.md               # Project documentation
-├── email_campaign_model.ipynb # Main Jupyter Notebook containing data analysis and modeling
-├── data_email_campaign.csv  # Dataset used for the project
-├── requirements.txt         # Dependencies and Python libraries required to run the project
-└── results/                 # Folder for saving model results and evaluation metrics
-```
 
 ---
 
