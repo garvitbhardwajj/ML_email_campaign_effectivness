@@ -1,5 +1,3 @@
-Here is a **README.md** template for your classification model GitHub repository:
-
 ---
 
 # **Email Campaign Characterization and Tracking using Machine Learning**
